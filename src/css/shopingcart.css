@@ -1,0 +1,10 @@
+.box-local {
+  display:table;
+}
+
+.card-local {
+  display:table-cell;
+}
+
+
+
